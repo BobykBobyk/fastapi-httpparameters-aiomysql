@@ -1,0 +1,1 @@
+# fastapi-httpparameters-aiomysql
